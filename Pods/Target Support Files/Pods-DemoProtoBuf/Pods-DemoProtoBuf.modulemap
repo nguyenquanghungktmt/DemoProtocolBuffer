@@ -1,0 +1,6 @@
+framework module Pods_DemoProtoBuf {
+  umbrella header "Pods-DemoProtoBuf-umbrella.h"
+
+  export *
+  module * { export * }
+}
